@@ -6,7 +6,7 @@ import { Nav } from './Nav'
 export const Article = () => {
   return (
     <>
-    <Nav/>
+    
     <div className='article'>
     <div className='article-heading'>
         <h1>Review by HR</h1>

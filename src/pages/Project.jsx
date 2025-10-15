@@ -6,7 +6,7 @@ import { Nav } from './Nav';
 export const Project = () => {
   return (
     <>
-      <Nav />
+    
       <div className="container">
         <div className="section">
           <h2>Projects</h2>
@@ -39,7 +39,7 @@ export const Project = () => {
           </div>
         
 
-        <div className="section">
+        <div className="section" >
           <h2>Education</h2>
           <p>
             Graduated with 7.89 out of 10 CGPA. got second prize in project expo.
